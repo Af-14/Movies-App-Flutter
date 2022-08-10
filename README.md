@@ -48,3 +48,4 @@ const String themoviedbApi = 'your_api_code_here';
 ## License
 This project is licensed under the <a href="https://github.com/vellt/Movies-App-Flutter/blob/main/LICENSE">MIT License</a>
 # Movies-App-Flutter
+# Movies-App-Flutter
