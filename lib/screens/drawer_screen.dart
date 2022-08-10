@@ -63,12 +63,12 @@ class DrawerScreen extends StatelessWidget {
                 title: kDrawerTitleSecondText,
                 desc: kDrawerAboutDescText,
               ),
-              SizedBox(
-                height: 5.h,
-              ),
-              DrawerItem(
-                  title: kDrawerTitleThirdText,
-                  desc: kDrawerDependenciesDescText),
+              // SizedBox(
+              //   height: 5.h,
+              // ),
+              // DrawerItem(
+              //     title: kDrawerTitleThirdText,
+              //     desc: kDrawerDependenciesDescText),
             ],
           ),
         ),

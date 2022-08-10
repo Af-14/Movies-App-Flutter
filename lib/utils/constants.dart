@@ -19,13 +19,12 @@ const kStoryLineTitleText = "Storyline";
 const kSplashScreenTitleText = "loading..";
 const kFinderScreenTitleText = "Finder";
 const kFavoriteScreenTitleText = "Favorites";
-const kDrawerTitleFirstText = "THEME";
+const kDrawerTitleFirstText = "PROFILE";
 const kDrawerTitleSecondText = "ABOUT";
 const kDrawerTitleThirdText = "DEPENDENCIES";
 const kAppliedTheme = "Theme applied";
 const kNotFoundErrorText = "Not found";
-const kDrawerAboutDescText =
-    "Hi, I am a practicing Flutter developer. You see currently my portfoliowork, which is based on the themoviedb API. If you want to see my future developments, follow me on GitHub (vellt).";
+const kDrawerAboutDescText = "Moviology";
 const kDrawerDependenciesDescText =
     "\t• sizer\n\t• flutter_spinkit\n\t• cached_network_image\n\t• fluttertoast\n\t• http\n\t• path_provider";
 const kMainGreenColor = Color(0xFF37A45E);

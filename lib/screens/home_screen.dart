@@ -138,7 +138,7 @@ class HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
               index: bottomBarIndex,
               children: [
                 BottomNavigationItem(
-                  icon: Icon(Icons.more_horiz),
+                  icon: Icon(Icons.view_headline),
                   iconSize: 35.sp,
                   onPressed: () => _scaffoldKey.currentState!.openDrawer(),
                 ),
