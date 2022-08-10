@@ -45,13 +45,13 @@ class DrawerScreen extends StatelessWidget {
                         file.saveTheme(color: "orange");
                         colorChanged(color);
                       },
-                    ),
-                    ColoredCircle(
-                      color: kMainPinkColor,
-                      onPressed: (color) {
-                        file.saveTheme(color: "pink");
-                        colorChanged(color);
-                      },
+                      // ),
+                      // ColoredCircle(
+                      //   color: kMainPinkColor,
+                      //   onPressed: (color) {
+                      //     file.saveTheme(color: "pink");
+                      //     colorChanged(color);
+                      //   },
                     ),
                   ],
                 ),
